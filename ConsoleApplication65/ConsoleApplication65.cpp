@@ -36,7 +36,6 @@ public:
     }
 };
 
-// Класс треугольника
 class Triangle : public GeometricFigure {
 private:
     double a_;
